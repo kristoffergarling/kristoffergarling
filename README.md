@@ -1,5 +1,7 @@
 <h1>Hello there 👋, I'm Kristoffer Gärling</h1>
 
+<p><b>I'm a data- and systems science student at Stockholm University on my way to becoming a frontend developer.</b></p>
+
 <h3>Languages & Tools</h3>
 <div id="techstack-badges">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
