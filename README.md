@@ -1,8 +1,9 @@
 <h1>Hello there 👋, I'm Kristoffer Gärling</h1>
 
 <p><b>I'm a data- and systems science student at Stockholm University on my way to becoming a frontend developer.</b></p>
+<img style="border-radius=50%;" src="https://media.giphy.com/media/pZxKXonUT3fzO/giphy.gif" alt="Waving Gif"</img>
 
-<h3>Languages & Tools</h3>
+<h3>Languages & Tools:</h3>
 <div id="techstack-badges">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
@@ -50,7 +51,7 @@
 
 </div>
 
-<h3>Where you can find me!</h3>
+<h3>Where you can find me:</h3>
 <div id="contact-badges">
   <a href="https://github.com/kristoffergarling" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
