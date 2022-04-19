@@ -1,6 +1,6 @@
 <h1>Hello there 👋, I'm Kristoffer Gärling</h1>
 
-<p><b>I'm a data- and systems science student at Stockholm University on my way to becoming a frontend developer.</b></p>
+<p><b>I'm a data- and systems science student at Stockholm University</b></p>
 <img style="border-radius=50%;" src="https://media.giphy.com/media/pZxKXonUT3fzO/giphy.gif" alt="Waving Gif"</img>
 
 <h3>Languages & Tools:</h3>
