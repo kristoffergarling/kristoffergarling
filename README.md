@@ -2,7 +2,6 @@
 
 <p><b>Data- and systems science student at Stockholm University.</b></p>
 <p>Currently: Learning the MERN stack by building CRUD apps.</p>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="HTML Badge"/>
 
 <h3>Languages & Tools:</h3>
 <div id="techstack-badges">
