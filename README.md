@@ -1,7 +1,7 @@
 <h1>Hello there 👋, I'm Kristoffer Gärling</h1>
 
 <p><b>Data- and systems science student at Stockholm University.</b></p>
-<p>Currently: Learning the MERN stack by building CRUD apps.</p>
+<p>Currently: Building a bug-tracker web app with React / TypeScript / Express / MongoDB / Material UI / Redux / Nextjs!</p>
 
 <h3>Languages & Tools:</h3>
 <div id="techstack-badges">
@@ -67,4 +67,3 @@
 </div>
 
 <h3>My Projects:</h3>
-<p>Upcoming</p>
