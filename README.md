@@ -2,6 +2,7 @@
 
 <p><b>Data- and systems science student at Stockholm University.</b></p>
 <p>Currently: Building a bug-tracker web app with React / TypeScript / Express / MongoDB / Material UI / Redux / Nextjs!</p>
+<p>Current Course in University: Requirements Engineering of IT-systems</p>
 
 <h3>Languages & Tools:</h3>
 <div id="techstack-badges">
