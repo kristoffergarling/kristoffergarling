@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
   </a>
   
+  <a href="https://www.typescriptlang.org/" target="_blank">
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> 
+  </a>
+  
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge"/>
   </a>
@@ -43,6 +47,18 @@
 
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  </a>
+  
+  <a href="https://material-ui.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui" />
+  </a>
+  
+  <a href="https://nextjs.org/" target="_blank">
+   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
+  </a> 
+  
+  <a href="https://www.styled-components.com" target="_blank">
+   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank">
