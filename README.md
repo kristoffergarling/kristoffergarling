@@ -74,12 +74,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-bengtsson-4760b1203/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/" alt="LinkedIn Badge"/>
   </a>
-  
-  <a href="https://codepen.io/kristofferdev" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
-  </a>
-</div>
 
 <h3>My Projects:</h3>
