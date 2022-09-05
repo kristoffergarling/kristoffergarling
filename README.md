@@ -73,8 +73,8 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-bengtsson-4760b1203/" target="_blank">
-    <img src="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 <h3>My Projects:</h3>
