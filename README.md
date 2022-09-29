@@ -4,7 +4,7 @@
 
 Hello and welcome to my profile!
 
-I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm University. I have a big interest in both front- and backend development. I'm currently building a bug tracker with TypeScript / React / Redux / Next.js / Node.js / MongoDB
+I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm University. I have a big interest in both front- and backend development. I'm currently building a bug tracker with TypeScript / React / Redux / Next.js / Node.js / MongoDB.
 - Open for work!
 
 #
