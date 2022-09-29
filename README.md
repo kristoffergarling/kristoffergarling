@@ -4,7 +4,7 @@
 
 I'm currently a Bachelor Student in Data- and System Science at Stockholm University with a big interest in frontend development.
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -31,3 +31,8 @@ I'm currently a Bachelor Student in Data- and System Science at Stockholm Univer
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kristoffergarling&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+Feel free to connect with me on LinkedIn!
+<a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/">
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
