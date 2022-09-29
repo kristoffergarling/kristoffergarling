@@ -2,7 +2,8 @@
 
 **`Frontend Developer`**
 
-I'm currently a Bachelor Student in Data- and System Science at Stockholm University with a big interest in frontend development.
+Welcome to my profile. I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm University. I have a big interest in both front- and backend development. Check out my repos and let me know what you think! :)
+- Open for work!
 
 #
 
@@ -34,5 +35,5 @@ I'm currently a Bachelor Student in Data- and System Science at Stockholm Univer
 
 Feel free to connect with me on LinkedIn!
 <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/">
-<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img align="" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
