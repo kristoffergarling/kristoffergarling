@@ -6,7 +6,7 @@ I'm currently a Bachelor Student in Data- and System Science at Stockholm Univer
 
  <p align="left">
       <a href="https://github.com/kristoffergarling?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kristoffergarling?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a>
       <a href="https://github.com/kristoffergarling?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kristoffergarling?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
