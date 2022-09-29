@@ -1,8 +1,8 @@
-# Kristoffer Gärling
+# 🚀 Kristoffer Gärling
 
 **`Frontend Developer`**
 
-I'm currently a Bachelor Student in Data- and System Science at Stockholm University. On the side I like to build both frontend and fullstack projects.
+I'm currently a Bachelor Student in Data- and System Science at Stockholm University with a big interest in frontend development.
 
  <p align="left">
       <a href="https://github.com/kristoffergarling?tab=followers">
