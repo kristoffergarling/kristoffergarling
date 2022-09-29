@@ -2,7 +2,9 @@
 
 **`Frontend Developer`**
 
-Welcome to my profile. I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm University. I have a big interest in both front- and backend development. Check out my repos and let me know what you think! :)
+Hello and welcome to my profile!
+
+I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm University. I have a big interest in both front- and backend development. Check out my repos and let me know what you think! :)
 - Open for work!
 
 #
