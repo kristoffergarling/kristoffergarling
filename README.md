@@ -35,7 +35,7 @@ I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm
 
 #
 
-Feel free to connect with me on LinkedIn!
+### 👥 Feel free to connect with me on LinkedIn!
 
 <br />
 
