@@ -35,6 +35,5 @@ I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm
 
 #
 
-<p>
 ### 👤 Feel free to connect with me on <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/">LinkedIn!</a>
-</p>
+
