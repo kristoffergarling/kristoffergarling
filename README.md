@@ -4,8 +4,8 @@
 
 I'm currently a Bachelor Student in Data- and System Science at Stockholm University with a big interest in frontend development.
 
- <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/" align="left">
-      <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg)" />
+<a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/" align="left">
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </a>
 
 ---
