@@ -4,12 +4,9 @@
 
 I'm currently a Bachelor Student in Data- and System Science at Stockholm University with a big interest in frontend development.
 
- <p align="left">
-      <a href="https://github.com/kristoffergarling?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a>
-      <a href="https://github.com/kristoffergarling?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kristoffergarling?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+ <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/" align="left">
+      <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg)" />
+</a>
 
 ---
 
