@@ -27,13 +27,5 @@ I'm a 21 year old Bachelor Student in Computer- and Systems Science at Stockholm
 
 #
 
-### 📊 Stats
-
-![Kristoffer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristoffergarling&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kristoffergarling&theme=gruvbox&border_radius=4.5) -->
-
-#
-
 ### 👤 Feel free to connect with me on <a href="https://www.linkedin.com/in/kristoffer-g%C3%A4rling-4760b1203/">LinkedIn!</a>
 
