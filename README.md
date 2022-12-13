@@ -4,7 +4,7 @@
 
 Hello and welcome to my profile!
 
-I'm a 22 year old Bachelor Student in Computer- and Systems Science at Stockholm University. I have a big interest in both front- and backend development. 
+I'm a 22 year old Bachelor Student in Computer- and Systems Science at Stockholm University. I have a big interest in both front- and backend development. Be sure to check out my portfolio website if you would like to see what I'm up to!
 
 #
 
