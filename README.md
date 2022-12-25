@@ -1,7 +1,7 @@
 # 🚀 Kristoffer Gärling
 
 **`Frontend Developer`**
-<br/>
+<br/><br/>
 Welcome to my profile! 
 
 I am a 22-year-old computer and system science student at Stockholm University. I am passionate about both front-end and back-end development and enjoy the challenge of creating functional and visually appealing websites and web applications.
