@@ -10,7 +10,6 @@ I am currently pursuing my bachelor's degree in computer and systems science, wh
 
 I am always looking to learn and improve my skills, and I am excited to see what the future holds in the field of web development. Thank you for visiting my profile and I hope to connect with you soon!
 
-
 #
 
 ### 🧰 Languages and Tools
