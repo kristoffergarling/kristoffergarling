@@ -4,7 +4,7 @@
 <br/><br/>
 Welcome to my profile!
 
-I am a 22-year-old computer and system science student at Stockholm University. I am passionate about both front-end and back-end development and enjoy the challenge of creating functional and visually appealing websites and web applications.
+I am a 23-year-old computer and system science student at Stockholm University. I am passionate about both front-end and back-end development and enjoy the challenge of creating functional and visually appealing websites and web applications.
 
 I am currently pursuing my bachelor's degree in computer and systems science, which has allowed me to gain a strong foundation in a range of programming languages and technologies. If you would like to see some of my work, please visit my portfolio website.
 
