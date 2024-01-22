@@ -1,9 +1,6 @@
 # 🦦 Kristoffer Gärling
 
 **`Frontend Developer`**
-<br/><br/>
-
-#
 
 ### 🧰 Languages and Tools
 
